@@ -1,0 +1,48 @@
+body, html {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  background-color: #515151;
+  height: 140px;
+  width: 100%;
+}
+
+.left {
+  height: 831px;
+  width: 20%;
+  background-color: #f2f2f2;
+  float: left;
+}
+
+.middle {
+  height: 831px;
+  width: 60%;
+  background-color: white;
+  float: left;
+}
+
+.right {
+  height: 831px;
+  width: 20%;
+  background-color: #f2f2f2;
+  float:left;
+}
+
+footer {
+  height: 10%;
+  width: 100%;
+  background-color: #333333;
+  margin:auto;
+
+}
+
+.insideBox {
+  height: 90%;
+  width: 100%;
+  background-color: white;
+  margin:auto;
+}
