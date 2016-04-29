@@ -6,7 +6,7 @@ body, html {
 }
 .main {
   width:100%;
-  height:100%;
+  height:972px;
 }
 .left {
   height: 100%;
@@ -29,16 +29,21 @@ body, html {
 }
 
 .rightOne {
-  height: 75%;
+  height: 729px;
   width: 100%;
   background-color: #65e78c;
 }
 
 .rightTwo {
-  height: 25%;
+  height: 243px;
   width: 100%;
   background-color: #cc0000;
+  text-align: center;
+  font-size: 40px;
+  font-family: calibri;
+
   }
   .placeholder {
-    margin:auto auto;
+    color: white;
+    padding-top: 20%;
   }
