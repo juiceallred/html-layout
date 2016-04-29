@@ -1,0 +1,52 @@
+body, html {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #d9d9d9;
+  padding: 10px 20px;
+}
+
+.headerbox {
+  height: 75px;
+  width: 75px;
+  background-color: #0099ff;
+}
+
+.second {
+  width: 100%;
+/*needs to be a container probably*/
+  height: 256px;
+  background-color: white;
+}
+
+p {
+  text-align: center;
+  font-family: sans-serif;
+}
+.third {
+  width: 100%;
+  height: 150px;
+  background-color: #0099ff;
+}
+
+.fourth {
+  width: 100%;
+  height: 150px;
+  background-color: #00ffcc;
+}
+
+.fifth {
+  width: 100%;
+  height: 150px;
+  background-color: #99ff66;
+}
+
+.sixth {
+  width: 100%;
+  height: 150px;
+  background-color: #e6e600;
+}
