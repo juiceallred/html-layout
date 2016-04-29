@@ -19,34 +19,40 @@ header {
 .second {
   width: 100%;
 /*needs to be a container probably*/
-  height: 256px;
+  height: 416px;
   background-color: white;
+  text-align: center;
 }
 
-p {
-  text-align: center;
+.secondText {
+  text-align: left;
+  color: #595959;
   font-family: sans-serif;
+  width: 1700px;
+  font-size: 47px;
+  margin: auto;
+  padding-top: 2%
 }
 .third {
   width: 100%;
-  height: 150px;
+  height: 110px;
   background-color: #0099ff;
 }
 
 .fourth {
   width: 100%;
-  height: 150px;
+  height: 110px;
   background-color: #00ffcc;
 }
 
 .fifth {
   width: 100%;
-  height: 150px;
+  height: 110px;
   background-color: #99ff66;
 }
 
 .sixth {
   width: 100%;
-  height: 150px;
+  height: 110px;
   background-color: #e6e600;
 }
